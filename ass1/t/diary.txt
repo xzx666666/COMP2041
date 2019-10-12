@@ -1,0 +1,14 @@
+Date             start        Stop           Activity                                              Comments
+
+7/Sep/2018      1:18pm      2:18pm       reading instruction                           watch the git Video and read the assignemnt 
+8/Sep/2018      7:00pm     10:18pm       codding and debugging                         finish the legit init and add 
+26/Sep/2018    12:00am     14:00pm       codding and read the commit -m                test the autotest subset_0 add and init
+27/Sep/2018    13:17pm     18:00pm       codding and debugging                         write the commit and debugging
+28/Sep/2018    10:17am     12:30am       debugging and read the subset1 commit-a       debugging the commit -a and -m and finish it
+30/Sep/2018    13:23pm     18:00pm       codding                                       finish the log and re-design the structure and pass the autotest0
+1/Oct/2018     11:02am     18:00pm       start design the subset1 and codding          modify the commit when remove the file and consinder the each situation when the program are error.
+2/Oct/2018     11:00am      19:00pm       codding and pass subset1                     finish the rm and find the condition of status  
+3/Oct/2018    18:00pm       20:00pm       write the shell and submit                   submit assignmnet  
+ 
+
+
